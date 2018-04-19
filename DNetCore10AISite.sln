@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{32EBE2CC-7F76-4775-934D-F7A2EB7D305F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{0DCAC149-0247-4A1B-90F7-A811EB4C2EBA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DNetCore10AISite", "src\DNetCore10AISite\DNetCore10AISite.csproj", "{D0A380FA-6037-4B5A-BB6C-6FE6B010A347}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D0A380FA-6037-4B5A-BB6C-6FE6B010A347}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0A380FA-6037-4B5A-BB6C-6FE6B010A347}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0A380FA-6037-4B5A-BB6C-6FE6B010A347}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0A380FA-6037-4B5A-BB6C-6FE6B010A347}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{D0A380FA-6037-4B5A-BB6C-6FE6B010A347} = {32EBE2CC-7F76-4775-934D-F7A2EB7D305F}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {059AA62B-476E-4737-9B91-76D852917A25}
+	EndGlobalSection
+EndGlobal
